@@ -1,0 +1,10 @@
+// These settings override both User and Default settings for the Python syntax
+{
+    "remove_trailing_whitespace_on_save": true,
+    "ensure_single_trailing_newline": true,
+    "ignore_whitespace_only_lines": false,
+    "ignore_whitespace_on_current_line": false,
+    "wrap_width": 100,
+
+    "rulers": [100]
+}

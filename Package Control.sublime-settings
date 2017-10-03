@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"AutoPEP8",
+		"Git",
+		"GitGutter",
+		"GithubEmoji",
+		"GitHubinator",
+		"JSON Reindent",
+		"JSONComma",
+		"JSONLint",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SideBarTools",
+		"Whitespace"
+	]
+}

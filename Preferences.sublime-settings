@@ -1,0 +1,20 @@
+{
+	"ensure_single_trailing_newline": true,
+	"folder_exclude_patterns":
+	[
+		"local_file_storage*",
+		"node_modules*"
+	],
+	"font_size": 9,
+	"ignore_whitespace_on_current_line": false,
+	"ignore_whitespace_only_lines": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"remove_trailing_whitespace_on_save": true,
+	"rulers":
+	[
+		100
+	]
+}
