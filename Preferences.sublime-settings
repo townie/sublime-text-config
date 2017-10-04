@@ -5,7 +5,7 @@
 		"local_file_storage*",
 		"node_modules*"
 	],
-	"font_size": 9,
+	"font_size": 13,
 	"ignore_whitespace_on_current_line": false,
 	"ignore_whitespace_only_lines": false,
 	"ignored_packages":
